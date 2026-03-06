@@ -1,5 +1,7 @@
 # PHP Data Structures & Algorithms – Complete Interview Preparation Guide
+---
 Link :- https://php-dsa.vercel.app
+---
 A **comprehensive Data Structures and Algorithms (DSA) study guide for PHP developers** designed specifically for **backend engineers preparing for technical interviews and improving problem-solving skills**.
 
 This repository provides **step-by-step explanations, visual examples, coding exercises, quizzes, and interview-focused problems**, all implemented in **clean and readable PHP**.
